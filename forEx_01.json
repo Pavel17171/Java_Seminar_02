@@ -1,0 +1,11 @@
+[
+    {"name":"Ivanov", "country":"Russia", "city":"Moscow", "age":"null"},
+    {"name":"Petrov", "country":"Belarus", "city":"Minsk", "age":"30"},
+    {"name":"Sidorov", "country":"Germany", "city":"Berlin", "age":"25"},
+
+    {"name":"Terevova", "country":"Greece", "city":"Athens", "age":"27"},
+    {"name":"Nekrasova", "country":"France", "city":"Paris", "age":"26"},
+    {"name":"Petrov", "country":"Russia", "city":"Tula", "age":"35"},
+    {"name":"null", "country":"null", "city":"null", "age":"null"},
+    {"name":"null", "country":"Belarus", "city":"Minsk", "age":"null"}
+]
